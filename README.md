@@ -1,6 +1,6 @@
 # Wis-Go7007
 
-![](https://raw.githubusercontent.com/boospy/Wis-Go7007/0622bc99f0e4adb10c9b23c765ed4d1f6a18c0d0/plextor.jpeg&x=250&y=250&a=true)
+![](https://raw.githubusercontent.com/boospy/Wis-Go7007/0622bc99f0e4adb10c9b23c765ed4d1f6a18c0d0/plextor.jpeg)
 
 ## Getting started
 
