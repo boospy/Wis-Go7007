@@ -1,3 +1,9 @@
+**You would like to show your appreciation for our help 8-o. Gladly. We thank you for your donation! ;)**
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=JTFYJYVH37MNE">
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif">
+</a>
+
 # Wis-Go7007
 
 <img src="https://raw.githubusercontent.com/boospy/Wis-Go7007/0622bc99f0e4adb10c9b23c765ed4d1f6a18c0d0/plextor.jpeg" width="" height="256">
