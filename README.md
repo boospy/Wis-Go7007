@@ -10,6 +10,8 @@
 
 ## Getting started
 
+Download the image from GitLab: https://git.osit.cc/public-projects/wis-go7007/-/blob/main/vzdump-qemu-122-2020_02_plextor.vma.gz
+
 This is an Proxmox VM Image with the ready to start Wis-Go7007 Software for the Plextor Videoconverter. 
 Simply recover the vm on an Proxmoxserver or Proxmoxdesktop. Passthrough the Plextor Device and feel free to convert videos. 
 Have a look at the "WatchMe" Movie for more Information. 
